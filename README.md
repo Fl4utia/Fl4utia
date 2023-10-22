@@ -81,15 +81,19 @@
 </div>
 <br>
 
-## Currently working on.. 
+## Currently working on...
+
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Self-Checkout System</h3>
 <div align="center">
   <img src="https://imgur.com/Z4u2VLQ.png" width="400" alt="Self-Checkout System">
-  <p>This project is an innovative self-checkout system inspired by the convenience of McDonald's self-order kiosks. Developed using C++ and employing data structures and algorithms, this system enhances the customer experience by streamlining the ordering and payment process. </p>
+  <p>This project is an innovative self-checkout system inspired by the convenience of McDonald's self-order kiosks. Developed using C++ and employing data structures and algorithms, this system enhances the customer experience by streamlining the ordering and payment process.</p>
 </div>
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -97,10 +101,9 @@
 <h3 align="center">Davalo's Magic House</h3>
 <div align="center">
   <img src="https://imgur.com/2YqOMpY.png" width="400" alt="Security system">
-  <p>Automated security system tailored for senior citizens, aiming to create a safe and convenient living environment. The system provides home access through facial recognition, eliminating the need for traditional keys and ensuring ease of entry. Moreover, it offers continuous environmental monitoring, allowing family members to remotely oversee the well-being and security of their elderly loved ones. Through the integration of <strong>databases, Arduino-based technology, and a user-friendly web interface<strong>, this system enables the control of household elements such as lighting and temperature. It combines the power of technology to enhance safety, comfort, and independence for seniors.</p>
+  <p>Automated security system tailored for senior citizens, aiming to create a safe and convenient living environment. The system provides home access through facial recognition, eliminating the need for traditional keys and ensuring ease of entry. Moreover, it offers continuous environmental monitoring, allowing family members to remotely oversee the well-being and security of their elderly loved ones. Through the integration of databases, Arduino-based technology, and a user-friendly web interface, this system enables the control of household elements such as lighting and temperature. It combines the power of technology to enhance safety, comfort, and independence for seniors.</p>
 </div>
-                                                                                      
-</td>                                                    
-</table>                                                                                 
-</div>
+</td>
+</tr>
+</table>
 <br>
