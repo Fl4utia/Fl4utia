@@ -39,7 +39,7 @@
 <br>
 <p>
 <a href="https://github.com/Fl4utia/Formula-1-Simulation" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p>A MATLAB-based simulation that replicates the high-speed dynamics of a car navigating a Formula 1-inspired curve and simulates potential crashes.</p>
@@ -68,11 +68,11 @@
                <br>
 <h3 align="center">Bungee Jumping</h3>
 <div align="center">                                       
-<a href="https://github.com/Fl4utia/Bungee-jumping_simulation" target="_blank"><img src="https://imgur.com/a/xqRb5tf.png" width="400" alt="Bungee Jumping Simulation"></a>
+<a href="https://github.com/Fl4utia/Bungee-jumping_simulation" target="_blank"><img src="https://imgur.com/ZoCGwsU.png" width="400" alt="Bungee Jumping Simulation"></a>
 <br>
 <p>
 <a href="https://github.com/Fl4utia/Bungee-jumping_simulation" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p> This simulation models the behavior of a bungee jump using <strong>differential equations</strong> in Python to analyze the dynamics.</p>
@@ -84,7 +84,7 @@
 ## Currently working on.. 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 <h3 align="center">Self-Checkout System</h3>
 <div align="center">
   <img src="https://imgur.com/Z4u2VLQ.png" width="400" alt="Self-Checkout System">
@@ -93,7 +93,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 <h3 align="center">Davalo's Magic House</h3>
 <div align="center">
   <img src="https://imgur.com/2YqOMpY.png" width="400" alt="Security system">
