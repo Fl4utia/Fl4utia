@@ -91,13 +91,11 @@
   <img src="https://imgur.com/Z4u2VLQ.png" width="400" alt="Self-Checkout System">
   <p>This project is an innovative self-checkout system inspired by the convenience of McDonald's self-order kiosks. Developed using C++ and employing data structures and algorithms, this system enhances the customer experience by streamlining the ordering and payment process.</p>
 </div>
+                                                                                      
 </td>
-</tr>
-</table>
 
-<table>
-<tr>
 <td width="50%">
+               <br>
 <h3 align="center">Davalo's Magic House</h3>
 <div align="center">
   <img src="https://imgur.com/2YqOMpY.png" width="400" alt="Security system">
