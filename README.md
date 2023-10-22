@@ -99,7 +99,7 @@
 <h3 align="center">Davalo's Magic House</h3>
 <div align="center">
   <img src="https://imgur.com/2YqOMpY.png" width="400" alt="Security system">
-  <p>Automated security system tailored for senior citizens, aiming to create a safe and convenient living environment. The system provides home access through facial recognition. Moreover, it offers continuous environmental monitoring, allowing family members to remotely oversee the well-being and security of their elderly loved ones. Through the integration of <strong> databases, Arduino-based technology, and a user-friendly web interface<strong>, this system enables the control of household elements such as lighting and temperature.</p>
+  <p>Automated security system tailored for senior citizen. The system provides home access through facial recognition. Moreover, it offers continuous environmental monitoring, allowing family members to remotely oversee the well-being and security of their elderly loved ones. Through the integration of <strong> databases, Arduino-based technology, and a user-friendly web interface</strong>, this system enables the control of household elements such as lighting and temperature.</p>
 </div>
 </td>
 </tr>
