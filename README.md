@@ -35,7 +35,7 @@
                <br>
 <h3 align="center">Formula 1</h3>
 <div align="center">                                       
-<a href="https://github.com/Fl4utia/Formula-1-Simulation" target="_blank"><img src="https://imgur.com/a/4ytqXLg.png" width="400" alt="Formula 1 Simulation"></a>
+<a href="https://github.com/Fl4utia/Formula-1-Simulation" target="_blank"><img src="https://imgur.com/4ytqXLg.png" width="400" alt="Formula 1 Simulation"></a>
 <br>
 <p>
 <a href="https://github.com/Fl4utia/Formula-1-Simulation" target="_blank">
@@ -53,7 +53,7 @@
 <td width="50%">
 <h3 align="center">Streaming system</h3>
 <div align="center">
-<a href=""https://github.com/Fl4utia/Streaming_service" target="_blank"><img src="https://imgur.com/a/8xSUs63.png" width="400" alt="Streaming System"></a>
+<a href=""https://github.com/Fl4utia/Streaming_service" target="_blank"><img src="https://imgur.com/fQbnIEK.png" width="400" alt="Streaming System"></a>
 <p>
 <a href="https://github.com/Fl4utia/Streaming_service" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
