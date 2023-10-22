@@ -5,7 +5,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcoEuHR-gnDLqAgN4w27WOw)
 
-## Sobre mi
+## About me
 
 - 📚 Compiling Dreams into Code.
 - 🎯 Currently leveling up my skills in CS.
@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I paint and go to the GYM very often.
 <br>
 
-## Proyectos 
+## Projects 
 <table>
 <tr>
 <td width="50%">
@@ -35,7 +35,7 @@
                <br>
 <h3 align="center">Formula 1</h3>
 <div align="center">                                       
-<a href="https://github.com/Fl4utia/Formula-1-Simulation" target="_blank"><img src="https://imgur.com/4ytqXLg.png" width="400" alt="Formula 1 Simulation"></a>
+<a href="https://github.com/Fl4utia/Formula-1-Simulation" target="_blank"><img src="https://imgur.com/iG5yaAs.png" width="400" alt="Formula 1 Simulation"></a>
 <br>
 <p>
 <a href="https://github.com/Fl4utia/Formula-1-Simulation" target="_blank">
@@ -84,19 +84,19 @@
 ## Currently working on.. 
 <table>
 <tr>
-<td width="100%">
+<td width="60%">
 <h3 align="center">Self-Checkout System</h3>
 <div align="center">
-  <img src="https://imgur.com/a/iT8VB35.png" width="400" alt="Self-Checkout System">
+  <img src="https://imgur.com/Z4u2VLQ.png" width="400" alt="Self-Checkout System">
   <p>This project is an innovative self-checkout system inspired by the convenience of McDonald's self-order kiosks. Developed using C++ and employing data structures and algorithms, this system enhances the customer experience by streamlining the ordering and payment process. </p>
 </div>
 
 <table>
 <tr>
-<td width="100%">
+<td width="60%">
 <h3 align="center">Davalo's Magic House</h3>
 <div align="center">
-  <img src="https://imgur.com/a/pDCjiwm.png" width="400" alt="Security system">
+  <img src="https://imgur.com/2YqOMpY.png" width="400" alt="Security system">
   <p>Automated security system tailored for senior citizens, aiming to create a safe and convenient living environment. The system provides home access through facial recognition, eliminating the need for traditional keys and ensuring ease of entry. Moreover, it offers continuous environmental monitoring, allowing family members to remotely oversee the well-being and security of their elderly loved ones. Through the integration of <strong>databases, Arduino-based technology, and a user-friendly web interface<strong>, this system enables the control of household elements such as lighting and temperature. It combines the power of technology to enhance safety, comfort, and independence for seniors.</p>
 </div>
                                                                                       
