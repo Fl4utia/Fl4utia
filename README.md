@@ -56,7 +56,7 @@
 <a href=""https://github.com/Fl4utia/Streaming_service" target="_blank"><img src="https://imgur.com/fQbnIEK.png" width="400" alt="Streaming System"></a>
 <p>
 <a href="https://github.com/Fl4utia/Streaming_service" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-%230F6494?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p> This project applies OOP concepts to design and develop an efficient and scalable streaming service, enhancing code organization and maintainability. .</p>
@@ -72,7 +72,7 @@
 <br>
 <p>
 <a href="https://github.com/Fl4utia/Bungee-jumping_simulation" target="_blank">
-<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-%238FCAFF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p> This simulation models the behavior of a bungee jump using <strong>differential equations</strong> in Python to analyze the dynamics.</p>
