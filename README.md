@@ -39,7 +39,7 @@
 <br>
 <p>
 <a href="https://github.com/Fl4utia/Formula-1-Simulation" target="_blank">
-<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-%23CF1919?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p>A MATLAB-based simulation that replicates the high-speed dynamics of a car navigating a Formula 1-inspired curve and simulates potential crashes.</p>
