@@ -102,7 +102,7 @@
 <br>
 <p>
 <a href="https://github.com/Fl4utia/Davalo-s_Magic_House" target="_blank">
-<img src="https://img.shields.io/badge/CODE-%230000FF?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-%23348CBF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
   <p>Automated security system tailored for senior citizen. The system provides home access through facial recognition. Moreover, it offers continuous environmental monitoring, allowing family members to remotely oversee the well-being and security of their elderly loved ones. Through the integration of <strong> databases, Arduino-based technology, and a user-friendly web interface</strong>, this system enables the control of household elements such as lighting and temperature.</p>
