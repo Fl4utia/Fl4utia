@@ -51,7 +51,8 @@
 	
  ```
 
-##How to reach me? 🌐
+## How to reach me?🌐
+
 🌟 Check out my portfolio: [Claudia Tobias](claudia-tobias.netlify.app) <br>
 📬 Feel free to shoot me an email: ximenatobias1@gmail.com
 
