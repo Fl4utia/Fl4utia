@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I paint and go to the GYM very often.
 <br>
 
-## Projects 
+## Some of my projects 
 <table>
 <tr>
 <td width="50%">
@@ -66,48 +66,17 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Bungee Jumping</h3>
+<h3 align="center">Safe Space</h3>
 <div align="center">                                       
-<a href="https://github.com/Fl4utia/Bungee-jumping_simulation" target="_blank"><img src="https://imgur.com/ZoCGwsU.png" width="400" alt="Bungee Jumping Simulation"></a>
+<a href="https://github.com/Fl4utia/Davalo-s_Magic_House" target="_blank"><img src="https://imgur.com/2YqOMpY.png" width="400" alt="Project Image"></a>
 <br>
 <p>
 <a href="https://github.com/Fl4utia/Bungee-jumping_simulation" target="_blank">
 <img src="https://img.shields.io/badge/CODE-%238FCAFF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p> This simulation models the behavior of a bungee jump using <strong>differential equations</strong> in Python to analyze the dynamics.</p>
+  <p>Automated security system tailored for senior citizen. The system provides home access through facial recognition. Moreover, it offers continuous environmental monitoring, allowing family members to remotely oversee the well-being and security of their elderly loved ones. Through the integration of <strong> databases, Arduino-based technology, and a user-friendly web interface</strong>, this system enables the control of household elements such as lighting and temperature.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
-
-## Currently working on...
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Self-Checkout System</h3>
-<div align="center">
-  <img src="https://imgur.com/Z4u2VLQ.png" width="400" alt="Self-Checkout System">
-  <p>This project is an innovative self-checkout system inspired by the convenience of McDonald's self-order kiosks. Developed using C++ and employing data structures and algorithms, this system enhances the customer experience by streamlining the ordering and payment process.</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-               <br>
-<h3 align="center">Davalo's Magic House</h3>
-<div align="center">
-<img src="https://imgur.com/2YqOMpY.png" width="400" alt="Security system">  
-<br>
-<p>
-<a href="https://github.com/Fl4utia/Davalo-s_Magic_House" target="_blank">
-<img src="https://img.shields.io/badge/CODE-%23348CBF?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-  <p>Automated security system tailored for senior citizen. The system provides home access through facial recognition. Moreover, it offers continuous environmental monitoring, allowing family members to remotely oversee the well-being and security of their elderly loved ones. Through the integration of <strong> databases, Arduino-based technology, and a user-friendly web interface</strong>, this system enables the control of household elements such as lighting and temperature.</p>
-</div>
-</td>
-</tr>
-</table>
 <br>
