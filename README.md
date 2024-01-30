@@ -117,7 +117,7 @@
 <img src="https://img.shields.io/badge/CODE-%238FCAFF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-  <p>Automated security system tailored for senior citizen. The system provides home access through facial recognition. Moreover, it offers continuous environmental monitoring, allowing family members to remotely oversee the well-being and security of their elderly loved ones. Through the integration of <strong> databases, Arduino-based technology, and a user-friendly web interface</strong>, this system enables the control of household elements such as lighting and temperature.</p>
+  <p>Automated security system for senior citizen. The system provides a continuous environmental monitoring, allowing family members to remotely oversee the well-being and security of their elderly loved ones. Through the integration of <strong> databases, Arduino-based technology, and a user-friendly web interface</strong>, this system enables the control of household elements.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
