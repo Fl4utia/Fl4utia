@@ -53,7 +53,7 @@
 
 ## How to reach me?🌐
 
-🌟 Check out my portfolio: <a>claudia-tobias.netlify.app</a> <br>
+🌟 Check out my portfolio: <a href="https://claudia-tobias.netlify.app">Claudia Tobias</a> <br>
 📬 Feel free to shoot me an email: ximenatobias1@gmail.com
 
 ## Some of my projects 
