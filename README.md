@@ -37,7 +37,7 @@
 		hobbies = [
 				'Painting',
 				'Working out',
-				'Readingg', # Add me on GoodReads! @Flautia
+				'Reading', # Add me on GoodReads! @Flautia
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
@@ -53,7 +53,7 @@
 
 ## How to reach me?🌐
 
-🌟 Check out my portfolio: [Claudia Tobias](claudia-tobias.netlify.app) <br>
+🌟 Check out my portfolio: claudia-tobias.netlify.app <br>
 📬 Feel free to shoot me an email: ximenatobias1@gmail.com
 
 ## Some of my projects 
