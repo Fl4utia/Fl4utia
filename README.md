@@ -113,7 +113,7 @@
 <a href="https://github.com/Fl4utia/Davalo-s_Magic_House" target="_blank"><img src="https://imgur.com/2YqOMpY.png" width="400" alt="Project Image"></a>
 <br>
 <p>
-<a href="https://github.com/Fl4utia/Bungee-jumping_simulation" target="_blank">
+<a href="https://github.com/Fl4utia/Davalo-s_Magic_House.git" target="_blank">
 <img src="https://img.shields.io/badge/CODE-%238FCAFF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
