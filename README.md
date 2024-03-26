@@ -60,15 +60,15 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Malaria Diagnosis</h3>
+<h3 align="center">Machine learning fake news detection</h3>
 <div align="center">
-<a href=""https://github.com/Fl4utia/Malaria_Diagnosis" target="_blank"><img src="https://imgur.com/F8f9olM.png" width="400" alt="Malaria Diagnosis"></a>
+<a href=""https://github.com/Fl4utia/ML-FakeNews-Prediction" target="_blank"><img src="https://i.imgur.com/9JQ7QYD.png" width="400" alt="Malaria Diagnosis"></a>
 <p>
-<a href="https://github.com/Fl4utia/Malaria_Diagnosis" target="_blank">
+<a href="https://github.com/Fl4utia/ML-FakeNews-Prediction" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p> Dielectrophoresis for <strong>Malaria Diagnosis</strong> - A groundbreaking approach in disease detection. Explore the simulation of electric fields and its potential impact on healthcare.</p>
+<p> ML model that can  predict whether a given news article is fake or genuine.</p>
 </div>
                                                                                       
 </td>
@@ -117,7 +117,7 @@
 <img src="https://img.shields.io/badge/CODE-%238FCAFF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-  <p>Automated security system for senior citizen. The system provides a continuous environmental monitoring, allowing family members to remotely oversee the well-being and security of their elderly loved ones. Through the integration of <strong> databases, Arduino-based technology, and a user-friendly web interface</strong>, this system enables the control of household elements.</p>
+  <p>Security system for senior citizen. The system providesmonitoring, allowing family members to remotely oversee the well-being and security of their elderly loved ones. Through the integration of <strong> databases, Arduino-based technology, and a user-friendly web interface</strong>, this system enables the control of household elements.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
