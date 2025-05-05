@@ -58,7 +58,7 @@
 
 ## How to reach me?🌐
 
-🌟 Check out my portfolio: <a href="https://claudia-tobias.netlify.app">Claudia Tobias</a> <br>
+🌟 Check out my portfolio: <a href="https://www.xeemena.com">Claudia Tobias</a> <br>
 📬 Feel free to shoot me an email: ximenatobias1@gmail.com
 
 
