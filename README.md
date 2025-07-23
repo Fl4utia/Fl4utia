@@ -1,10 +1,6 @@
 <div align="center">
-<h1 align="center">Hola, soy Claudia</a> 👋</h1>
+<h1 align="center">Hello</a> 👋</h1>
 </div>
-<img src="https://imgur.com/30h1gjg.png">
-
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcoEuHR-gnDLqAgN4w27WOw)
-
 
 ## Who am I?
 
