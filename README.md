@@ -19,7 +19,7 @@
 		return Monterrey_Mexico()
 	
 	def Ambitions():
-		LearnFrench()
+		LearnItalian()
 		CreateContent()
 		# Assume 10 more awesome ambitions here  ;)
 	
